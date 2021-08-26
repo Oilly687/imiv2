@@ -53,7 +53,6 @@
           <b><span id="lastUpdate"></span></b> 
            </div> 
       </div>
-
       </div>
   </div></center>
     
@@ -71,7 +70,6 @@
                     backgroundColor: 'rgb(255, 99, 71)',
                     borderColor: 'rgb(75, 192, 192)',
                     
-
                 }]
             }
     
@@ -92,7 +90,6 @@
         });
         });  
       }
-
 $(
     ()=>{
           var plot_data = Object();
@@ -111,4 +108,5 @@ $(
       })     
   </script>
   </script>
+    
 </html>
